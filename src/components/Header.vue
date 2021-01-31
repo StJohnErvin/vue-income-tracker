@@ -19,8 +19,8 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 15px 30px;
-  background-color: #313131;
-  border-bottom: 5px solid #FFCE00;
+  background-color: #000000;
+  border-bottom: 5px solid rgb(102, 255, 0);
 }
 header h1 {
   color: #EEE;
@@ -28,8 +28,8 @@ header h1 {
 }
 header .total-income {
   font-family: 'Fira Code', 'Fira Sans', sans-serif;
-  background-color: #FFCE00;
-  color: #FFF;
+  background-color: rgb(66, 68, 64);
+  color: rgb(102, 255, 0);
   font-size: 20px;
   font-weight: 900;
   padding: 5px 10px;
